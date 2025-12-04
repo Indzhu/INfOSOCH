@@ -1,5 +1,0 @@
-body{font-family:Arial;background:#f3fff7;margin:0}
-.header{background:#1e9b5a;color:#fff;padding:10px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:15px;padding:15px}
-.card{background:#fff;padding:10px;border-radius:10px}
-.btn{background:#1e9b5a;color:#fff;border:none;padding:6px 10px;border-radius:6px;cursor:pointer}
